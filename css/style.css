@@ -70,7 +70,7 @@ nav a {
 *******************/
 
 .about-body {
-	padding: 16px;
+	padding: 0 16px;
 }
 
 .about-headerText {
@@ -104,5 +104,5 @@ nav a {
 }
 
 .aboutCTA {
-	margin: -20px 0 20px 0;
+	margin: -20px 0 39px 0;
 }
