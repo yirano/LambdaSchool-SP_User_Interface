@@ -64,3 +64,45 @@ nav a {
 #box10 {
 	background: dodgerblue;
 }
+
+/*******************
+        ABOUT
+*******************/
+
+.about-body {
+	padding: 16px;
+}
+
+.about-headerText {
+	padding: 20px 20px 0;
+}
+
+.aboutContainer {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding: 6px 0;
+}
+
+.aboutContent {
+	width: 48%;
+	border-bottom: 1px dashed #000;
+	margin-bottom: 60px;
+}
+
+.aboutContentText {
+	padding: 9px 0 16px;
+}
+
+.aboutContentText button {
+	margin-top: 20px;
+	padding: 9px 20px;
+	font-size: 1rem;
+	background: #fff;
+	border: 2px solid #000;
+	border-radius: 8px;
+}
+
+.aboutCTA {
+	margin: -20px 0 20px 0;
+}
