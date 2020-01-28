@@ -1,0 +1,107 @@
+nav ul {
+	display: flex;
+	width: 800px;
+	margin: 0 auto;
+	padding: 40px 0;
+}
+
+nav ul li {
+	margin-right: 82px;
+}
+
+nav ul li:first-child {
+	margin-top: -23px;
+	margin-right: 60px;
+}
+
+nav a {
+	text-decoration: none;
+	color: #000;
+	font-size: 14px;
+}
+
+.img-container {
+	padding-bottom: 20px;
+}
+
+#box1 {
+	background: teal;
+}
+
+#box2 {
+	background: gold;
+}
+
+#box3 {
+	background: cadetblue;
+}
+
+#box4 {
+	background: coral;
+}
+
+#box5 {
+	background: crimson;
+}
+
+#box6 {
+	background: forestgreen;
+}
+
+#box7 {
+	background: darkorchid;
+}
+
+#box8 {
+	background: hotpink;
+}
+
+#box9 {
+	background: indigo;
+}
+
+#box10 {
+	background: dodgerblue;
+}
+
+/*******************
+        ABOUT
+*******************/
+
+.about-body {
+	padding: 0 16px;
+}
+
+.about-headerText {
+	padding: 20px 20px 0;
+}
+
+.aboutContainer {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding: 6px 0;
+}
+
+.aboutContent {
+	width: 48%;
+	border-bottom: 1px dashed #000;
+	margin-bottom: 60px;
+}
+
+.aboutContentText {
+	padding: 9px 0 16px;
+}
+
+.aboutContentText button {
+	margin-top: 20px;
+	padding: 9px 20px;
+	font-size: 1rem;
+	background: #fff;
+	border: 2px solid #000;
+	border-radius: 8px;
+}
+
+.aboutCTA {
+	margin: -20px 0 39px 0;
+}
